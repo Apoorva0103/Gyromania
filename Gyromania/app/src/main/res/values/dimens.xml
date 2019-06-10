@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="headerImageHeight">240dp</dimen>
+    <dimen name="materialTextSizeMini">8sp</dimen>
+    <dimen name="materialTextSizeSmall">10sp</dimen>
+    <dimen name="materialTextSizeMedium">12sp</dimen>
+    <dimen name="materialTextSizeLarge">16sp</dimen>
+    <dimen name="materialTextSizeXLArge">24sp</dimen>
+</resources>
